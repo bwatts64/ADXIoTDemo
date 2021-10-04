@@ -71,7 +71,7 @@ Humidity =  toreal(telemetry.['humidity'])
 
 3) Before creating the export job you can verify that the devices are generating sameple data by clicking on one of the newly created thermostats. You should see data in both the dashboard and the raw tab.
 
-<img src="gif\IoTCreateThermostats.gif" width="740" />  
+<img src="gif\IoTDeviceTelemetry.gif" width="740" />  
 
 4) Now we can create the data export to Azure Data Explorer. In order to do this you'll need to gather the following information:
 - Azured Data Explorer Cluster URL
