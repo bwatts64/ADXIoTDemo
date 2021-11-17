@@ -103,5 +103,10 @@ Thermostat
 ```
 <img src="gif\IoTADXResults.gif" width="740" />
 
+## KQL
+In this repo you will find some KQL queries that you can run against the thermostat telemetry.
+
+[KQL Demo Queries](https://github.com/bwatts64/ADXIoTDemo/tree/master/iot-lab/kql/ThermostatDemoQueries.kql)
+
 ## Summary
 You now have a IoT Demo data flowing into your Azure Data Explorer cluster. This is a great way to explore the Kusto Language capabilities or demonstrate this scenerio to others. If your new to Kusto a great place to start is our [documentation!](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/)
